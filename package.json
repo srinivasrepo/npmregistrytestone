@@ -1,8 +1,11 @@
 {
   "name": "srinivasnpmregistrytestone",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "my first npm registry",
-  "main": "node_modules",
+  "main": "index.js",
+  "files": [
+    "node_modules"
+  ],
   "scripts": {
     "test": "node index.js"
   },
