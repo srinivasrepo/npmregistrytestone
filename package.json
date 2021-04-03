@@ -1,0 +1,29 @@
+{
+  "name": "srinivasnpmregistrytestone",
+  "version": "1.0.1",
+  "description": "my first npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivasrepo/npmregistrytestone.git"
+  },
+  "keywords": [
+    "npmregistry",
+    "srinivasnpm"
+  ],
+  "author": "srinivas vadige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivasrepo/npmregistrytestone/issues"
+  },
+  "homepage": "https://github.com/srinivasrepo/npmregistrytestone#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
